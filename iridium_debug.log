@@ -1,0 +1,53 @@
+[17:25:02.267] [EmbeddedHttpServer] Start error: Failed to listen on prefix 'http://127.0.0.1:1421/' because it conflicts with an existing registration on the machine.
+[17:25:02.790] NavigationCompleted: Success=True, ErrorStatus=Unknown
+[17:25:05.300] REAL_DOM_PROBE: "{\"elementsCount\":960,\"appShellFound\":true,\"splashFound\":true}"
+[17:25:05.316] Dumped IRIDIUM rendered DOM (302270 chars) to iridium_rendered_dom.html
+[14:48:36.816] NavigationCompleted: Success=True, ErrorStatus=Unknown
+[14:48:38.713] Other button clicked: Appearance
+[14:48:39.121] Other button clicked: Appearance
+[14:48:39.330] REAL_DOM_PROBE: "{\"elementsCount\":1699,\"appShellFound\":true,\"splashFound\":true}"
+[14:48:39.358] Dumped IRIDIUM rendered DOM (374454 chars) to iridium_rendered_dom.html
+[14:48:39.537] Other button clicked: Appearance
+[14:48:39.954] Other button clicked: Appearance
+[14:48:40.364] Other button clicked: Appearance
+[14:48:40.781] Other button clicked: Appearance
+[14:48:41.197] Other button clicked: Appearance
+[14:48:41.615] Other button clicked: Appearance
+[14:48:42.031] Other button clicked: Appearance
+[14:48:42.448] Other button clicked: Appearance
+[14:48:42.864] Other button clicked: Appearance
+[14:48:43.236] Other button clicked: Next
+[14:09:49.837] NavigationCompleted: Success=True, ErrorStatus=Unknown
+[14:09:51.709] Other button clicked: Appearance
+[14:09:52.122] Other button clicked: Appearance
+[14:09:52.348] REAL_DOM_PROBE: "{\"elementsCount\":1749,\"appShellFound\":true,\"splashFound\":true}"
+[14:09:52.370] Dumped IRIDIUM rendered DOM (380134 chars) to iridium_rendered_dom.html
+[14:09:52.540] Other button clicked: Appearance
+[14:09:52.956] Other button clicked: Appearance
+[14:09:53.373] Other button clicked: Appearance
+[14:09:53.790] Other button clicked: Appearance
+[14:09:54.199] Other button clicked: Appearance
+[14:09:54.616] Other button clicked: Appearance
+[14:09:55.026] Other button clicked: Appearance
+[14:09:55.435] Other button clicked: Appearance
+[14:09:55.852] Other button clicked: Appearance
+[14:09:56.276] Other button clicked: Appearance
+[14:09:56.692] Other button clicked: Appearance
+[14:09:57.109] Other button clicked: Appearance
+[14:09:57.327] Other button clicked: Close
+[17:30:02.031] NavigationCompleted: Success=True, ErrorStatus=Unknown
+[17:30:03.960] Other button clicked: Appearance
+[17:30:04.373] Other button clicked: Appearance
+[17:30:04.555] REAL_DOM_PROBE: "{\"elementsCount\":1749,\"appShellFound\":true,\"splashFound\":true}"
+[17:30:04.577] Dumped IRIDIUM rendered DOM (380134 chars) to iridium_rendered_dom.html
+[17:30:04.788] Other button clicked: Appearance
+[17:30:05.205] Other button clicked: Appearance
+[17:30:05.621] Other button clicked: Appearance
+[17:30:06.038] Other button clicked: Appearance
+[17:30:06.447] Other button clicked: Appearance
+[17:30:06.865] Other button clicked: Appearance
+[17:30:07.274] Other button clicked: Appearance
+[17:30:07.691] Other button clicked: Appearance
+[17:30:08.108] Other button clicked: Appearance
+[17:30:08.524] Other button clicked: Appearance
+[17:30:08.681] Other button clicked: Close
